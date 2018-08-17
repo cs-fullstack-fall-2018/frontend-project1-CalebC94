@@ -1,0 +1,30 @@
+body
+{
+    color: azure;
+}
+h1
+{
+    background-color: black;
+    text-align: center;
+    border: black;
+}
+
+body
+{
+    background-color: red;
+}
+#picMe
+{
+    background-color: black;
+    position: page;
+    width: 220px;
+    height: 380px;
+}
+.well
+{
+    background-color: black;
+}
+.fa-basketball-ball
+{
+    font-size: 50px;
+}
